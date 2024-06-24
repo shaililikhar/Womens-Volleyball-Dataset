@@ -1,0 +1,507 @@
+index,name,date_of_birth,height,weight,spike,block,position_name,country
+0,Angelina Lazarenko,04/13/1998,"6' 4""",176 lbs,320,305,MB,23
+1,Svetlana Serbina,05/15/1996,"6' 0""",157 lbs,295,284,setter,23
+2,Ekaterina Shkurikhina,06/17/1996,"6' 3""",159 lbs,306,296,OH,23
+3,Kristina Kurnosova,06/17/1997,"5' 9""",137 lbs,288,278,MB,23
+4,Ekaterina Novikova,12/07/1996,"5' 11""",154 lbs,290,275,setter,23
+5,Victoria Zhurbenko,03/17/1996,"6' 1""",148 lbs,306,297,MB,23
+6,Angelina Sperskaite,02/11/1997,"6' 2""",159 lbs,305,295,OH,23
+7,Anastasiia Barchuk,02/09/1996,"6' 2""",172 lbs,305,297,MB,23
+8,Anastasiia Cheremisina,01/14/1996,"6' 2""",176 lbs,305,298,OH,23
+9,Anna Lazareva,01/31/1997,"6' 3""",148 lbs,315,300,O,23
+10,Tatiana Iurinskaia,01/25/1996,"6' 5""",152 lbs,305,275,OH,23
+11,Sabina Gilfanova,02/14/1996,"6' 2""",174 lbs,300,296,O,23
+12,Drussyla Costa,07/01/1996,"6' 0""",161 lbs,304,286,OH,10
+13,Lana Conceição,12/08/1996,"5' 9""",159 lbs,292,281,OH,10
+14,Ariane Pinto,01/27/1997,"6' 3""",174 lbs,291,284,O,10
+15,Laiza Ferreira,02/18/1996,"5' 11""",157 lbs,301,285,MB,10
+16,Gabriela Candido Da Silva,05/22/1996,"5' 11""",165 lbs,296,285,OH,10
+17,Gabriela Silva,03/05/1996,"6' 0""",165 lbs,296,281,MB,10
+18,Karoline Tormena,03/21/1996,"6' 2""",152 lbs,295,284,MB,10
+19,Lorenne Geraldo Teixeira,01/08/1996,"6' 2""",159 lbs,306,289,O,10
+20,Thais Oliveira,04/01/1996,"5' 8""",152 lbs,275,272,setter,10
+21,Lais Vasques,02/12/1996,"5' 7""",154 lbs,275,274,MB,10
+22,Lyara Medeiros,09/19/1996,"6' 0""",148 lbs,297,285,setter,10
+23,Maiara Basso,01/03/1996,"6' 1""",176 lbs,287,276,MB,10
+24,Nanami Hirose,05/12/1997,"5' 10""",134 lbs,301,295,OH,16
+25,Misaki Shirai,07/30/1996,"5' 9""",154 lbs,293,278,setter,16
+26,Yurika Kono,04/08/1996,"5' 10""",132 lbs,292,282,MB,16
+27,Yuka Kitsui,01/15/1997,"5' 8""",132 lbs,294,283,O,16
+28,Haruka Maruo,08/15/1996,"5' 9""",141 lbs,293,283,MB,16
+29,Haruka Kanamori,04/09/1996,"5' 9""",146 lbs,297,290,MB,16
+30,Moeri Hanai,04/17/1997,"5' 6""",132 lbs,280,272,MB,16
+31,Mizuki Yanagita,03/26/1996,"5' 6""",141 lbs,300,290,OH,16
+32,Yuka Onodera,03/22/1997,"5' 8""",154 lbs,293,283,setter,16
+33,Shino Nakata,07/15/1997,"5' 10""",146 lbs,287,284,OH,16
+34,Kaori Mabashi,11/18/1996,"5' 8""",139 lbs,296,286,OH,16
+35,Anna Koike,12/16/1996,"5' 4""",137 lbs,263,253,OH,9
+36,Slavena Nikova,06/07/1996,"5' 11""",159 lbs,290,280,OH,9
+37,Elitsa Barakova,03/11/1997,"6' 0""",132 lbs,290,280,MB,9
+38,Polina Neykova,10/07/1998,"6' 0""",161 lbs,287,280,setter,9
+39,Simona Nikolova,07/29/1997,"6' 3""",165 lbs,308,300,O,9
+40,Iveta Stanchulova,08/11/1997,"6' 1""",159 lbs,290,285,MB,9
+41,Vangeliya Rachkovska,07/19/1997,"6' 1""",148 lbs,296,281,OH,9
+42,Gergana Dimitrova,02/28/1996,"6' 0""",157 lbs,305,288,OH,9
+43,Miroslava Paskova,02/16/1996,"5' 11""",148 lbs,299,280,OH,9
+44,Kristiana Petrova,07/13/1997,"5' 10""",154 lbs,290,282,OH,9
+45,Radostina Marinova,10/02/1998,"6' 0""",137 lbs,287,279,MB,9
+46,Zhana Todorova,01/06/1997,"5' 7""",123 lbs,271,255,MB,9
+47,Mirela Shahpazova,10/28/1997,"5' 9""",143 lbs,280,270,setter,9
+48,Jovana Kocic,02/24/1998,"6' 3""",187 lbs,290,285,MB,24
+49,Aleksandra Cirovic,09/30/1997,"5' 9""",126 lbs,285,275,setter,24
+50,Sara Lozo,04/29/1997,"6' 1""",134 lbs,295,290,O,24
+51,Katarina Marinkovic,04/04/1996,"6' 1""",159 lbs,298,285,OH,24
+52,Jelena Vignjevic,06/07/1996,"5' 11""",139 lbs,285,280,setter,24
+53,Maja Aleksic,06/06/1997,"6' 2""",159 lbs,290,285,MB,24
+54,Katarina Lazovic,09/12/1999,"6' 0""",143 lbs,285,275,OH,24
+55,Bojana Milenkovic,03/06/1997,"6' 1""",154 lbs,294,288,OH,24
+56,Aleksandra Tadic,12/24/1997,"5' 9""",132 lbs,270,265,MB,24
+57,Sara Vucicevic,04/29/1997,"6' 1""",146 lbs,287,282,MB,24
+58,Milena Dimic,08/31/1997,"5' 7""",141 lbs,255,250,MB,24
+59,Marija Vujnovic,05/11/1997,"6' 0""",143 lbs,290,276,OH,24
+60,Leslie Angélica Lopez Flores,02/13/1996,"5' 7""",172 lbs,198,190,MB,19
+61,Maria Fernanda Rodriguez Gomez,06/23/1997,"6' 1""",176 lbs,287,280,O,19
+62,Janeth Alejandra Vargas Guevara,07/25/1997,"5' 7""",150 lbs,200,210,setter,19
+63,Maria Elena Aguilera,06/08/1997,"5' 0""",121 lbs,260,240,setter,19
+64,Kathya Paulina Garcia Chavez,03/06/1998,"5' 10""",152 lbs,285,250,OH,19
+65,Miriam Arleth Bojorquez Ruiz,12/14/1997,"5' 5""",146 lbs,195,200,OH,19
+66,Montserrat Castro Narvaez,12/12/1996,"6' 6""",187 lbs,270,268,MB,19
+67,Fernanda Bañuelos,03/19/1997,"6' 1""",154 lbs,303,285,OH,19
+68,Kitzia Adonay Corrales Hernandez,02/12/1996,"5' 10""",157 lbs,0,0,O,19
+69,Karina Angelica Flores Gamez,08/16/1998,"6' 4""",176 lbs,299,285,MB,19
+70,Mitzy Natalia Gonzalez Guzman,08/03/1997,"5' 6""",165 lbs,211,209,OH,19
+71,Alondra Amaro Rodriguez,06/09/1998,"6' 2""",152 lbs,275,250,MB,19
+72,Dalila Palma Rodriguez,11/18/1999,"6' 0""",137 lbs,301,285,O,31
+73,Laura Beatriz Suarez Hernandez,12/13/1998,"6' 1""",165 lbs,304,292,MB,31
+74,Aidachi Attilah Aguero Aguilera,03/19/1999,"5' 10""",152 lbs,304,295,OH,31
+75,Claudia Hernandez Aguila,01/09/1997,"5' 11""",172 lbs,225,223,OH,31
+76,Diaris De La Caridad Perez Ramos,11/16/1998,"6' 0""",165 lbs,304,295,OH,31
+77,Kitania Medina Torres,02/24/1999,"6' 1""",170 lbs,308,295,O,31
+78,Ailama Cese Montalvo,10/29/2000,"6' 2""",128 lbs,322,308,OH,31
+79,Liset Herrera Blanco,12/06/1998,"6' 4""",154 lbs,311,300,MB,31
+80,Anaila Martinez Chaviano,03/20/1999,"6' 0""",154 lbs,320,310,setter,31
+81,Carmela Massip Mursuli,01/17/1998,"5' 11""",143 lbs,304,295,OH,31
+82,Sonia Beatriz Romero Espinosa,08/02/1997,"6' 0""",154 lbs,301,288,setter,31
+83,Anet Alfonso Benitez,06/26/1996,"5' 8""",119 lbs,225,222,O,31
+84,Haiping Sun,05/23/1996,"5' 11""",143 lbs,300,292,setter,5
+85,Mingyuan Hu,05/17/1996,"6' 2""",152 lbs,305,297,MB,5
+86,Zixuan Meng,11/18/1996,"5' 11""",137 lbs,298,290,MB,5
+87,Ye Jin,03/01/1996,"6' 2""",170 lbs,310,302,OH,5
+88,Qingqing Du,12/18/1996,"6' 2""",159 lbs,312,300,OH,5
+89,Qian Zhang,02/20/1997,"6' 4""",154 lbs,313,302,MB,5
+90,Jiayi Huang,08/16/1996,"5' 8""",132 lbs,285,275,MB,5
+91,Wanqianbai Rong,01/01/1997,"6' 0""",165 lbs,304,297,setter,5
+92,Yuanyuan Wang,07/14/1997,"6' 5""",165 lbs,312,300,MB,5
+93,Xiangyu Gong,04/21/1997,"6' 1""",159 lbs,313,302,O,5
+94,Xinyi Zhou,03/17/1997,"6' 2""",152 lbs,307,300,OH,5
+95,Yi Yang,03/19/1997,"6' 0""",154 lbs,308,300,O,5
+96,Mayar Mohamed,02/05/2000,"6' 1""",172 lbs,288,279,MB,29
+97,Mai Moustafa,10/01/1996,"5' 9""",139 lbs,280,269,OH,29
+98,Salma Mahmoud,02/04/1999,"5' 9""",123 lbs,278,266,OH,29
+99,Nourallah Amin,11/25/2000,"6' 0""",154 lbs,285,276,MB,29
+100,Malak Badawy,06/17/1996,"5' 9""",141 lbs,273,289,O,29
+101,Mariam Ebrahim,03/13/1997,"5' 6""",139 lbs,273,261,setter,29
+102,Rahma Almohandes,11/09/1996,"5' 9""",139 lbs,277,265,OH,29
+103,Yasmin Hussein,01/11/1997,"5' 9""",163 lbs,188,178,OH,29
+104,Hend Farag,09/29/1997,"6' 1""",150 lbs,277,272,MB,29
+105,Icel Nadim,02/19/1996,"5' 4""",115 lbs,253,267,MB,29
+106,Jailan Tawfik,06/12/1997,"5' 9""",143 lbs,292,279,O,29
+107,Rania Ashmawy,02/20/1996,"5' 9""",148 lbs,273,264,setter,29
+108,Diana De La Peña,06/07/1999,"6' 2""",132 lbs,294,295,MB,30
+109,Nair Canessa,06/04/1997,"6' 1""",154 lbs,295,298,MB,30
+110,Nicole Abreu Erquinigo,03/27/1999,"5' 11""",139 lbs,285,270,OH,30
+111,Cristina Cuba,06/04/1996,"5' 9""",143 lbs,280,275,setter,30
+112,Shiamara Almeida,02/19/1996,"5' 8""",137 lbs,286,275,setter,30
+113,Maguilaura Frias,05/28/1997,"6' 1""",157 lbs,291,280,O,30
+114,Katherine Regalado,03/11/1998,"6' 3""",146 lbs,296,287,O,30
+115,Rosa Valiente,06/26/1996,"6' 0""",132 lbs,290,295,MB,30
+116,Angela Leyva,11/22/1996,"6' 0""",154 lbs,312,291,OH,30
+117,Yomira Villacorta,01/11/1996,"5' 5""",134 lbs,265,250,MB,30
+118,Dayana Rojas,10/09/1997,"5' 3""",121 lbs,178,180,OH,30
+119,Coraima Gomez,08/09/1996,"5' 10""",154 lbs,300,285,OH,30
+120,Ilaria Bonvicini,02/28/1997,"5' 3""",115 lbs,261,243,OH,15
+121,Carlotta Cambi,05/28/1996,"5' 10""",146 lbs,302,292,setter,15
+122,Sofia D'odorico,01/06/1997,"6' 2""",172 lbs,312,302,OH,15
+123,Alessia Orro,07/18/1998,"5' 11""",163 lbs,308,231,setter,15
+124,Sara Bonifacio,07/03/1996,"6' 2""",168 lbs,320,300,MB,15
+125,Anna Danesi,04/20/1996,"6' 5""",165 lbs,312,246,MB,15
+126,Anastasia Guerra,10/15/1996,"6' 2""",176 lbs,314,239,OH,15
+127,Chiara De Bortoli,07/28/1997,"5' 11""",150 lbs,302,286,MB,15
+128,Paola Ogechi Egonu,12/18/1998,"6' 3""",154 lbs,336,256,O,15
+129,Beatrice Berti,01/12/1996,"6' 4""",192 lbs,304,288,MB,15
+130,Anna Nicoletti,01/03/1996,"6' 4""",190 lbs,306,290,O,15
+131,Elisa Zanette,02/17/1996,"6' 4""",190 lbs,304,288,O,15
+132,Melis Yilmaz,06/28/1997,"5' 5""",115 lbs,260,259,MB,26
+133,Cansu Ozbay,10/17/1996,"6' 0""",165 lbs,285,284,setter,26
+134,Ayca Aykac,02/27/1996,"5' 9""",119 lbs,280,279,MB,26
+135,Rida Erlalelitepe,07/22/1996,"6' 0""",154 lbs,293,290,OH,26
+136,Ada Germen,06/24/1997,"6' 0""",137 lbs,285,283,OH,26
+137,Zehra Gunes,07/07/1999,"6' 4""",181 lbs,309,255,MB,26
+138,Humay Topaloglu,08/03/1996,"5' 11""",139 lbs,295,293,OH,26
+139,Yagmur Mislina Kilic,03/30/1996,"6' 2""",146 lbs,283,280,OH,26
+140,Cemre Janset Erkul,01/12/1997,"6' 0""",143 lbs,298,295,MB,26
+141,Arelya Karasoy,12/14/1996,"5' 11""",161 lbs,287,280,setter,26
+142,Arelya Karasoy,12/14/1996,"5' 11""",161 lbs,287,280,setter,26
+143,Su Zent,03/25/1996,"6' 0""",154 lbs,305,303,MB,26
+144,Angelina Lazarenko,04/13/1998,"6' 4""",176 lbs,320,305,MB,23
+145,Svetlana Serbina,05/15/1996,"6' 0""",157 lbs,295,284,setter,23
+146,Ekaterina Shkurikhina,06/17/1996,"6' 3""",159 lbs,306,296,OH,23
+147,Kristina Kurnosova,06/17/1997,"5' 9""",137 lbs,288,278,MB,23
+148,Ekaterina Novikova,12/07/1996,"5' 11""",154 lbs,290,275,setter,23
+149,Victoria Zhurbenko,03/17/1996,"6' 1""",148 lbs,306,297,MB,23
+150,Angelina Sperskaite,02/11/1997,"6' 2""",159 lbs,305,295,OH,23
+151,Anastasiia Barchuk,02/09/1996,"6' 2""",172 lbs,305,297,MB,23
+152,Anastasiia Cheremisina,01/14/1996,"6' 2""",176 lbs,305,298,OH,23
+153,Anna Lazareva,01/31/1997,"6' 3""",148 lbs,315,300,O,23
+154,Tatiana Iurinskaia,01/25/1996,"6' 5""",152 lbs,305,275,OH,23
+155,Sabina Gilfanova,02/14/1996,"6' 2""",174 lbs,300,296,O,23
+156,Drussyla Costa,07/01/1996,"6' 0""",161 lbs,304,286,OH,10
+157,Lana Conceição,12/08/1996,"5' 9""",159 lbs,292,281,OH,10
+158,Ariane Pinto,01/27/1997,"6' 3""",174 lbs,291,284,O,10
+159,Laiza Ferreira,02/18/1996,"5' 11""",157 lbs,301,285,MB,10
+160,Gabriela Candido Da Silva,05/22/1996,"5' 11""",165 lbs,296,285,OH,10
+161,Gabriela Silva,03/05/1996,"6' 0""",165 lbs,296,281,MB,10
+162,Karoline Tormena,03/21/1996,"6' 2""",152 lbs,295,284,MB,10
+163,Lorenne Geraldo Teixeira,01/08/1996,"6' 2""",159 lbs,306,289,O,10
+164,Thais Oliveira,04/01/1996,"5' 8""",152 lbs,275,272,setter,10
+165,Lais Vasques,02/12/1996,"5' 7""",154 lbs,275,274,MB,10
+166,Lyara Medeiros,09/19/1996,"6' 0""",148 lbs,297,285,setter,10
+167,Maiara Basso,01/03/1996,"6' 1""",176 lbs,287,276,MB,10
+168,Nanami Hirose,05/12/1997,"5' 10""",134 lbs,301,295,OH,16
+169,Misaki Shirai,07/30/1996,"5' 9""",154 lbs,293,278,setter,16
+170,Yurika Kono,04/08/1996,"5' 10""",132 lbs,292,282,MB,16
+171,Yuka Kitsui,01/15/1997,"5' 8""",132 lbs,294,283,O,16
+172,Haruka Maruo,08/15/1996,"5' 9""",141 lbs,293,283,MB,16
+173,Haruka Kanamori,04/09/1996,"5' 9""",146 lbs,297,290,MB,16
+174,Moeri Hanai,04/17/1997,"5' 6""",132 lbs,280,272,MB,16
+175,Mizuki Yanagita,03/26/1996,"5' 6""",141 lbs,300,290,OH,16
+176,Yuka Onodera,03/22/1997,"5' 8""",154 lbs,293,283,setter,16
+177,Shino Nakata,07/15/1997,"5' 10""",146 lbs,287,284,OH,16
+178,Kaori Mabashi,11/18/1996,"5' 8""",139 lbs,296,286,OH,16
+179,Anna Koike,12/16/1996,"5' 4""",137 lbs,263,253,OH,9
+180,Slavena Nikova,06/07/1996,"5' 11""",159 lbs,290,280,OH,9
+181,Elitsa Barakova,03/11/1997,"6' 0""",132 lbs,290,280,MB,9
+182,Polina Neykova,10/07/1998,"6' 0""",161 lbs,287,280,setter,9
+183,Simona Nikolova,07/29/1997,"6' 3""",165 lbs,308,300,O,9
+184,Iveta Stanchulova,08/11/1997,"6' 1""",159 lbs,290,285,MB,9
+185,Vangeliya Rachkovska,07/19/1997,"6' 1""",148 lbs,296,281,OH,9
+186,Gergana Dimitrova,02/28/1996,"6' 0""",157 lbs,305,288,OH,9
+187,Miroslava Paskova,02/16/1996,"5' 11""",148 lbs,299,280,OH,9
+188,Kristiana Petrova,07/13/1997,"5' 10""",154 lbs,290,282,OH,9
+189,Radostina Marinova,10/02/1998,"6' 0""",137 lbs,287,279,MB,9
+190,Zhana Todorova,01/06/1997,"5' 7""",123 lbs,271,255,MB,9
+191,Mirela Shahpazova,10/28/1997,"5' 9""",143 lbs,280,270,setter,9
+192,Jovana Kocic,02/24/1998,"6' 3""",187 lbs,290,285,MB,24
+193,Aleksandra Cirovic,09/30/1997,"5' 9""",126 lbs,285,275,setter,24
+194,Sara Lozo,04/29/1997,"6' 1""",134 lbs,295,290,O,24
+195,Katarina Marinkovic,04/04/1996,"6' 1""",159 lbs,298,285,OH,24
+196,Jelena Vignjevic,06/07/1996,"5' 11""",139 lbs,285,280,setter,24
+197,Maja Aleksic,06/06/1997,"6' 2""",159 lbs,290,285,MB,24
+198,Katarina Lazovic,09/12/1999,"6' 0""",143 lbs,285,275,OH,24
+199,Bojana Milenkovic,03/06/1997,"6' 1""",154 lbs,294,288,OH,24
+200,Aleksandra Tadic,12/24/1997,"5' 9""",132 lbs,270,265,MB,24
+201,Sara Vucicevic,04/29/1997,"6' 1""",146 lbs,287,282,MB,24
+202,Milena Dimic,08/31/1997,"5' 7""",141 lbs,255,250,MB,24
+203,Marija Vujnovic,05/11/1997,"6' 0""",143 lbs,290,276,OH,24
+204,Leslie Angélica Lopez Flores,02/13/1996,"5' 7""",172 lbs,198,190,MB,19
+205,Maria Fernanda Rodriguez Gomez,06/23/1997,"6' 1""",176 lbs,287,280,O,19
+206,Janeth Alejandra Vargas Guevara,07/25/1997,"5' 7""",150 lbs,200,210,setter,19
+207,Maria Elena Aguilera,06/08/1997,"5' 0""",121 lbs,260,240,setter,19
+208,Kathya Paulina Garcia Chavez,03/06/1998,"5' 10""",152 lbs,285,250,OH,19
+209,Miriam Arleth Bojorquez Ruiz,12/14/1997,"5' 5""",146 lbs,195,200,OH,19
+210,Montserrat Castro Narvaez,12/12/1996,"6' 6""",187 lbs,270,268,MB,19
+211,Fernanda Bañuelos,03/19/1997,"6' 1""",154 lbs,303,285,OH,19
+212,Kitzia Adonay Corrales Hernandez,02/12/1996,"5' 10""",157 lbs,0,0,O,19
+213,Karina Angelica Flores Gamez,08/16/1998,"6' 4""",176 lbs,299,285,MB,19
+214,Mitzy Natalia Gonzalez Guzman,08/03/1997,"5' 6""",165 lbs,211,209,OH,19
+215,Alondra Amaro Rodriguez,06/09/1998,"6' 2""",152 lbs,275,250,MB,19
+216,Dalila Palma Rodriguez,11/18/1999,"6' 0""",137 lbs,301,285,O,31
+217,Laura Beatriz Suarez Hernandez,12/13/1998,"6' 1""",165 lbs,304,292,MB,31
+218,Aidachi Attilah Aguero Aguilera,03/19/1999,"5' 10""",152 lbs,304,295,OH,31
+219,Claudia Hernandez Aguila,01/09/1997,"5' 11""",172 lbs,225,223,OH,31
+220,Diaris De La Caridad Perez Ramos,11/16/1998,"6' 0""",165 lbs,304,295,OH,31
+221,Kitania Medina Torres,02/24/1999,"6' 1""",170 lbs,308,295,O,31
+222,Ailama Cese Montalvo,10/29/2000,"6' 2""",128 lbs,322,308,OH,31
+223,Liset Herrera Blanco,12/06/1998,"6' 4""",154 lbs,311,300,MB,31
+224,Anaila Martinez Chaviano,03/20/1999,"6' 0""",154 lbs,320,310,setter,31
+225,Carmela Massip Mursuli,01/17/1998,"5' 11""",143 lbs,304,295,OH,31
+226,Sonia Beatriz Romero Espinosa,08/02/1997,"6' 0""",154 lbs,301,288,setter,31
+227,Anet Alfonso Benitez,06/26/1996,"5' 8""",119 lbs,225,222,O,31
+228,Haiping Sun,05/23/1996,"5' 11""",143 lbs,300,292,setter,5
+229,Mingyuan Hu,05/17/1996,"6' 2""",152 lbs,305,297,MB,5
+230,Zixuan Meng,11/18/1996,"5' 11""",137 lbs,298,290,MB,5
+231,Ye Jin,03/01/1996,"6' 2""",170 lbs,310,302,OH,5
+232,Qingqing Du,12/18/1996,"6' 2""",159 lbs,312,300,OH,5
+233,Qian Zhang,02/20/1997,"6' 4""",154 lbs,313,302,MB,5
+234,Jiayi Huang,08/16/1996,"5' 8""",132 lbs,285,275,MB,5
+235,Wanqianbai Rong,01/01/1997,"6' 0""",165 lbs,304,297,setter,5
+236,Yuanyuan Wang,07/14/1997,"6' 5""",165 lbs,312,300,MB,5
+237,Xiangyu Gong,04/21/1997,"6' 1""",159 lbs,313,302,O,5
+238,Xinyi Zhou,03/17/1997,"6' 2""",152 lbs,307,300,OH,5
+239,Yi Yang,03/19/1997,"6' 0""",154 lbs,308,300,O,5
+240,Mayar Mohamed,02/05/2000,"6' 1""",172 lbs,288,279,MB,29
+241,Mai Moustafa,10/01/1996,"5' 9""",139 lbs,280,269,OH,29
+242,Salma Mahmoud,02/04/1999,"5' 9""",123 lbs,278,266,OH,29
+243,Nourallah Amin,11/25/2000,"6' 0""",154 lbs,285,276,MB,29
+244,Malak Badawy,06/17/1996,"5' 9""",141 lbs,273,289,O,29
+245,Mariam Ebrahim,03/13/1997,"5' 6""",139 lbs,273,261,setter,29
+246,Rahma Almohandes,11/09/1996,"5' 9""",139 lbs,277,265,OH,29
+247,Yasmin Hussein,01/11/1997,"5' 9""",163 lbs,188,178,OH,29
+248,Hend Farag,09/29/1997,"6' 1""",150 lbs,277,272,MB,29
+249,Icel Nadim,02/19/1996,"5' 4""",115 lbs,253,267,MB,29
+250,Jailan Tawfik,06/12/1997,"5' 9""",143 lbs,292,279,O,29
+251,Rania Ashmawy,02/20/1996,"5' 9""",148 lbs,273,264,setter,29
+252,Diana De La Peña,06/07/1999,"6' 2""",132 lbs,294,295,MB,30
+253,Nair Canessa,06/04/1997,"6' 1""",154 lbs,295,298,MB,30
+254,Nicole Abreu Erquinigo,03/27/1999,"5' 11""",139 lbs,285,270,OH,30
+255,Cristina Cuba,06/04/1996,"5' 9""",143 lbs,280,275,setter,30
+256,Shiamara Almeida,02/19/1996,"5' 8""",137 lbs,286,275,setter,30
+257,Maguilaura Frias,05/28/1997,"6' 1""",157 lbs,291,280,O,30
+258,Katherine Regalado,03/11/1998,"6' 3""",146 lbs,296,287,O,30
+259,Rosa Valiente,06/26/1996,"6' 0""",132 lbs,290,295,MB,30
+260,Angela Leyva,11/22/1996,"6' 0""",154 lbs,312,291,OH,30
+261,Yomira Villacorta,01/11/1996,"5' 5""",134 lbs,265,250,MB,30
+262,Dayana Rojas,10/09/1997,"5' 3""",121 lbs,178,180,OH,30
+263,Coraima Gomez,08/09/1996,"5' 10""",154 lbs,300,285,OH,30
+264,Ilaria Bonvicini,02/28/1997,"5' 3""",115 lbs,261,243,OH,15
+265,Carlotta Cambi,05/28/1996,"5' 10""",146 lbs,302,292,setter,15
+266,Sofia D'odorico,01/06/1997,"6' 2""",172 lbs,312,302,OH,15
+267,Alessia Orro,07/18/1998,"5' 11""",163 lbs,308,231,setter,15
+268,Sara Bonifacio,07/03/1996,"6' 2""",168 lbs,320,300,MB,15
+269,Anna Danesi,04/20/1996,"6' 5""",165 lbs,312,246,MB,15
+270,Anastasia Guerra,10/15/1996,"6' 2""",176 lbs,314,239,OH,15
+271,Chiara De Bortoli,07/28/1997,"5' 11""",150 lbs,302,286,MB,15
+272,Paola Ogechi Egonu,12/18/1998,"6' 3""",154 lbs,336,256,O,15
+273,Beatrice Berti,01/12/1996,"6' 4""",192 lbs,304,288,MB,15
+274,Anna Nicoletti,01/03/1996,"6' 4""",190 lbs,306,290,O,15
+275,Elisa Zanette,02/17/1996,"6' 4""",190 lbs,304,288,O,15
+276,Melis Yilmaz,06/28/1997,"5' 5""",115 lbs,260,259,MB,26
+277,Cansu Ozbay,10/17/1996,"6' 0""",165 lbs,285,284,setter,26
+278,Ayca Aykac,02/27/1996,"5' 9""",119 lbs,280,279,MB,26
+279,Rida Erlalelitepe,07/22/1996,"6' 0""",154 lbs,293,290,OH,26
+280,Ada Germen,06/24/1997,"6' 0""",137 lbs,285,283,OH,26
+281,Zehra Gunes,07/07/1999,"6' 4""",181 lbs,309,255,MB,26
+282,Humay Topaloglu,08/03/1996,"5' 11""",139 lbs,295,293,OH,26
+283,Yagmur Mislina Kilic,03/30/1996,"6' 2""",146 lbs,283,280,OH,26
+284,Cemre Janset Erkul,01/12/1997,"6' 0""",143 lbs,298,295,MB,26
+285,Arelya Karasoy,12/14/1996,"5' 11""",161 lbs,287,280,setter,26
+286,Arelya Karasoy,12/14/1996,"5' 11""",161 lbs,287,280,setter,26
+287,Su Zent,03/25/1996,"6' 0""",154 lbs,305,303,MB,26
+288,Angelina Lazarenko,04/13/1998,"6' 4""",176 lbs,320,305,MB,23
+289,Svetlana Serbina,05/15/1996,"6' 0""",157 lbs,295,284,setter,23
+290,Ekaterina Shkurikhina,06/17/1996,"6' 3""",159 lbs,306,296,OH,23
+291,Kristina Kurnosova,06/17/1997,"5' 9""",137 lbs,288,278,MB,23
+292,Ekaterina Novikova,12/07/1996,"5' 11""",154 lbs,290,275,setter,23
+293,Victoria Zhurbenko,03/17/1996,"6' 1""",148 lbs,306,297,MB,23
+294,Angelina Sperskaite,02/11/1997,"6' 2""",159 lbs,305,295,OH,23
+295,Anastasiia Barchuk,02/09/1996,"6' 2""",172 lbs,305,297,MB,23
+296,Anastasiia Cheremisina,01/14/1996,"6' 2""",176 lbs,305,298,OH,23
+297,Anna Lazareva,01/31/1997,"6' 3""",148 lbs,315,300,O,23
+298,Tatiana Iurinskaia,01/25/1996,"6' 5""",152 lbs,305,275,OH,23
+299,Sabina Gilfanova,02/14/1996,"6' 2""",174 lbs,300,296,O,23
+300,Drussyla Costa,07/01/1996,"6' 0""",161 lbs,304,286,OH,10
+301,Lana Conceição,12/08/1996,"5' 9""",159 lbs,292,281,OH,10
+302,Ariane Pinto,01/27/1997,"6' 3""",174 lbs,291,284,O,10
+303,Laiza Ferreira,02/18/1996,"5' 11""",157 lbs,301,285,MB,10
+304,Gabriela Candido Da Silva,05/22/1996,"5' 11""",165 lbs,296,285,OH,10
+305,Gabriela Silva,03/05/1996,"6' 0""",165 lbs,296,281,MB,10
+306,Karoline Tormena,03/21/1996,"6' 2""",152 lbs,295,284,MB,10
+307,Lorenne Geraldo Teixeira,01/08/1996,"6' 2""",159 lbs,306,289,O,10
+308,Thais Oliveira,04/01/1996,"5' 8""",152 lbs,275,272,setter,10
+309,Lais Vasques,02/12/1996,"5' 7""",154 lbs,275,274,MB,10
+310,Lyara Medeiros,09/19/1996,"6' 0""",148 lbs,297,285,setter,10
+311,Maiara Basso,01/03/1996,"6' 1""",176 lbs,287,276,MB,10
+312,Nanami Hirose,05/12/1997,"5' 10""",134 lbs,301,295,OH,16
+313,Misaki Shirai,07/30/1996,"5' 9""",154 lbs,293,278,setter,16
+314,Yurika Kono,04/08/1996,"5' 10""",132 lbs,292,282,MB,16
+315,Yuka Kitsui,01/15/1997,"5' 8""",132 lbs,294,283,O,16
+316,Haruka Maruo,08/15/1996,"5' 9""",141 lbs,293,283,MB,16
+317,Haruka Kanamori,04/09/1996,"5' 9""",146 lbs,297,290,MB,16
+318,Moeri Hanai,04/17/1997,"5' 6""",132 lbs,280,272,MB,16
+319,Mizuki Yanagita,03/26/1996,"5' 6""",141 lbs,300,290,OH,16
+320,Yuka Onodera,03/22/1997,"5' 8""",154 lbs,293,283,setter,16
+321,Shino Nakata,07/15/1997,"5' 10""",146 lbs,287,284,OH,16
+322,Kaori Mabashi,11/18/1996,"5' 8""",139 lbs,296,286,OH,16
+323,Anna Koike,12/16/1996,"5' 4""",137 lbs,263,253,OH,9
+324,Slavena Nikova,06/07/1996,"5' 11""",159 lbs,290,280,OH,9
+325,Elitsa Barakova,03/11/1997,"6' 0""",132 lbs,290,280,MB,9
+326,Polina Neykova,10/07/1998,"6' 0""",161 lbs,287,280,setter,9
+327,Simona Nikolova,07/29/1997,"6' 3""",165 lbs,308,300,O,9
+328,Iveta Stanchulova,08/11/1997,"6' 1""",159 lbs,290,285,MB,9
+329,Vangeliya Rachkovska,07/19/1997,"6' 1""",148 lbs,296,281,OH,9
+330,Gergana Dimitrova,02/28/1996,"6' 0""",157 lbs,305,288,OH,9
+331,Miroslava Paskova,02/16/1996,"5' 11""",148 lbs,299,280,OH,9
+332,Kristiana Petrova,07/13/1997,"5' 10""",154 lbs,290,282,OH,9
+333,Radostina Marinova,10/02/1998,"6' 0""",137 lbs,287,279,MB,9
+334,Zhana Todorova,01/06/1997,"5' 7""",123 lbs,271,255,MB,9
+335,Mirela Shahpazova,10/28/1997,"5' 9""",143 lbs,280,270,setter,9
+336,Jovana Kocic,02/24/1998,"6' 3""",187 lbs,290,285,MB,24
+337,Aleksandra Cirovic,09/30/1997,"5' 9""",126 lbs,285,275,setter,24
+338,Sara Lozo,04/29/1997,"6' 1""",134 lbs,295,290,O,24
+339,Katarina Marinkovic,04/04/1996,"6' 1""",159 lbs,298,285,OH,24
+340,Jelena Vignjevic,06/07/1996,"5' 11""",139 lbs,285,280,setter,24
+341,Maja Aleksic,06/06/1997,"6' 2""",159 lbs,290,285,MB,24
+342,Katarina Lazovic,09/12/1999,"6' 0""",143 lbs,285,275,OH,24
+343,Bojana Milenkovic,03/06/1997,"6' 1""",154 lbs,294,288,OH,24
+344,Aleksandra Tadic,12/24/1997,"5' 9""",132 lbs,270,265,MB,24
+345,Sara Vucicevic,04/29/1997,"6' 1""",146 lbs,287,282,MB,24
+346,Milena Dimic,08/31/1997,"5' 7""",141 lbs,255,250,MB,24
+347,Marija Vujnovic,05/11/1997,"6' 0""",143 lbs,290,276,OH,24
+348,Leslie Angélica Lopez Flores,02/13/1996,"5' 7""",172 lbs,198,190,MB,19
+349,Maria Fernanda Rodriguez Gomez,06/23/1997,"6' 1""",176 lbs,287,280,O,19
+350,Janeth Alejandra Vargas Guevara,07/25/1997,"5' 7""",150 lbs,200,210,setter,19
+351,Maria Elena Aguilera,06/08/1997,"5' 0""",121 lbs,260,240,setter,19
+352,Kathya Paulina Garcia Chavez,03/06/1998,"5' 10""",152 lbs,285,250,OH,19
+353,Miriam Arleth Bojorquez Ruiz,12/14/1997,"5' 5""",146 lbs,195,200,OH,19
+354,Montserrat Castro Narvaez,12/12/1996,"6' 6""",187 lbs,270,268,MB,19
+355,Fernanda Bañuelos,03/19/1997,"6' 1""",154 lbs,303,285,OH,19
+356,Kitzia Adonay Corrales Hernandez,02/12/1996,"5' 10""",157 lbs,0,0,O,19
+357,Karina Angelica Flores Gamez,08/16/1998,"6' 4""",176 lbs,299,285,MB,19
+358,Mitzy Natalia Gonzalez Guzman,08/03/1997,"5' 6""",165 lbs,211,209,OH,19
+359,Alondra Amaro Rodriguez,06/09/1998,"6' 2""",152 lbs,275,250,MB,19
+360,Dalila Palma Rodriguez,11/18/1999,"6' 0""",137 lbs,301,285,O,31
+361,Laura Beatriz Suarez Hernandez,12/13/1998,"6' 1""",165 lbs,304,292,MB,31
+362,Aidachi Attilah Aguero Aguilera,03/19/1999,"5' 10""",152 lbs,304,295,OH,31
+363,Claudia Hernandez Aguila,01/09/1997,"5' 11""",172 lbs,225,223,OH,31
+364,Diaris De La Caridad Perez Ramos,11/16/1998,"6' 0""",165 lbs,304,295,OH,31
+365,Kitania Medina Torres,02/24/1999,"6' 1""",170 lbs,308,295,O,31
+366,Ailama Cese Montalvo,10/29/2000,"6' 2""",128 lbs,322,308,OH,31
+367,Liset Herrera Blanco,12/06/1998,"6' 4""",154 lbs,311,300,MB,31
+368,Anaila Martinez Chaviano,03/20/1999,"6' 0""",154 lbs,320,310,setter,31
+369,Carmela Massip Mursuli,01/17/1998,"5' 11""",143 lbs,304,295,OH,31
+370,Sonia Beatriz Romero Espinosa,08/02/1997,"6' 0""",154 lbs,301,288,setter,31
+371,Anet Alfonso Benitez,06/26/1996,"5' 8""",119 lbs,225,222,O,31
+372,Haiping Sun,05/23/1996,"5' 11""",143 lbs,300,292,setter,5
+373,Mingyuan Hu,05/17/1996,"6' 2""",152 lbs,305,297,MB,5
+374,Zixuan Meng,11/18/1996,"5' 11""",137 lbs,298,290,MB,5
+375,Ye Jin,03/01/1996,"6' 2""",170 lbs,310,302,OH,5
+376,Qingqing Du,12/18/1996,"6' 2""",159 lbs,312,300,OH,5
+377,Qian Zhang,02/20/1997,"6' 4""",154 lbs,313,302,MB,5
+378,Jiayi Huang,08/16/1996,"5' 8""",132 lbs,285,275,MB,5
+379,Wanqianbai Rong,01/01/1997,"6' 0""",165 lbs,304,297,setter,5
+380,Yuanyuan Wang,07/14/1997,"6' 5""",165 lbs,312,300,MB,5
+381,Xiangyu Gong,04/21/1997,"6' 1""",159 lbs,313,302,O,5
+382,Xinyi Zhou,03/17/1997,"6' 2""",152 lbs,307,300,OH,5
+383,Yi Yang,03/19/1997,"6' 0""",154 lbs,308,300,O,5
+384,Mayar Mohamed,02/05/2000,"6' 1""",172 lbs,288,279,MB,29
+385,Mai Moustafa,10/01/1996,"5' 9""",139 lbs,280,269,OH,29
+386,Salma Mahmoud,02/04/1999,"5' 9""",123 lbs,278,266,OH,29
+387,Nourallah Amin,11/25/2000,"6' 0""",154 lbs,285,276,MB,29
+388,Malak Badawy,06/17/1996,"5' 9""",141 lbs,273,289,O,29
+389,Mariam Ebrahim,03/13/1997,"5' 6""",139 lbs,273,261,setter,29
+390,Rahma Almohandes,11/09/1996,"5' 9""",139 lbs,277,265,OH,29
+391,Yasmin Hussein,01/11/1997,"5' 9""",163 lbs,188,178,OH,29
+392,Hend Farag,09/29/1997,"6' 1""",150 lbs,277,272,MB,29
+393,Icel Nadim,02/19/1996,"5' 4""",115 lbs,253,267,MB,29
+394,Jailan Tawfik,06/12/1997,"5' 9""",143 lbs,292,279,O,29
+395,Rania Ashmawy,02/20/1996,"5' 9""",148 lbs,273,264,setter,29
+396,Diana De La Peña,06/07/1999,"6' 2""",132 lbs,294,295,MB,30
+397,Nair Canessa,06/04/1997,"6' 1""",154 lbs,295,298,MB,30
+398,Nicole Abreu Erquinigo,03/27/1999,"5' 11""",139 lbs,285,270,OH,30
+399,Cristina Cuba,06/04/1996,"5' 9""",143 lbs,280,275,setter,30
+400,Shiamara Almeida,02/19/1996,"5' 8""",137 lbs,286,275,setter,30
+401,Maguilaura Frias,05/28/1997,"6' 1""",157 lbs,291,280,O,30
+402,Katherine Regalado,03/11/1998,"6' 3""",146 lbs,296,287,O,30
+403,Rosa Valiente,06/26/1996,"6' 0""",132 lbs,290,295,MB,30
+404,Angela Leyva,11/22/1996,"6' 0""",154 lbs,312,291,OH,30
+405,Yomira Villacorta,01/11/1996,"5' 5""",134 lbs,265,250,MB,30
+406,Dayana Rojas,10/09/1997,"5' 3""",121 lbs,178,180,OH,30
+407,Coraima Gomez,08/09/1996,"5' 10""",154 lbs,300,285,OH,30
+408,Ilaria Bonvicini,02/28/1997,"5' 3""",115 lbs,261,243,OH,15
+409,Carlotta Cambi,05/28/1996,"5' 10""",146 lbs,302,292,setter,15
+410,Sofia D'odorico,01/06/1997,"6' 2""",172 lbs,312,302,OH,15
+411,Alessia Orro,07/18/1998,"5' 11""",163 lbs,308,231,setter,15
+412,Sara Bonifacio,07/03/1996,"6' 2""",168 lbs,320,300,MB,15
+413,Anna Danesi,04/20/1996,"6' 5""",165 lbs,312,246,MB,15
+414,Anastasia Guerra,10/15/1996,"6' 2""",176 lbs,314,239,OH,15
+415,Chiara De Bortoli,07/28/1997,"5' 11""",150 lbs,302,286,MB,15
+416,Paola Ogechi Egonu,12/18/1998,"6' 3""",154 lbs,336,256,O,15
+417,Beatrice Berti,01/12/1996,"6' 4""",192 lbs,304,288,MB,15
+418,Anna Nicoletti,01/03/1996,"6' 4""",190 lbs,306,290,O,15
+419,Elisa Zanette,02/17/1996,"6' 4""",190 lbs,304,288,O,15
+420,Melis Yilmaz,06/28/1997,"5' 5""",115 lbs,260,259,MB,26
+421,Cansu Ozbay,10/17/1996,"6' 0""",165 lbs,285,284,setter,26
+422,Ayca Aykac,02/27/1996,"5' 9""",119 lbs,280,279,MB,26
+423,Rida Erlalelitepe,07/22/1996,"6' 0""",154 lbs,293,290,OH,26
+424,Ada Germen,06/24/1997,"6' 0""",137 lbs,285,283,OH,26
+425,Zehra Gunes,07/07/1999,"6' 4""",181 lbs,309,255,MB,26
+426,Humay Topaloglu,08/03/1996,"5' 11""",139 lbs,295,293,OH,26
+427,Yagmur Mislina Kilic,03/30/1996,"6' 2""",146 lbs,283,280,OH,26
+428,Cemre Janset Erkul,01/12/1997,"6' 0""",143 lbs,298,295,MB,26
+429,Arelya Karasoy,12/14/1996,"5' 11""",161 lbs,287,280,setter,26
+430,Arelya Karasoy,12/14/1996,"5' 11""",161 lbs,287,280,setter,26
+431,Su Zent,03/25/1996,"6' 0""",154 lbs,305,303,MB,26
+6' 0""",154 lbs,305,303,MB,26
+s,07/07/1999,"12' 4""",181 lbs,309,255,MB,26
+426,Humay Topaloglu,08/03/1996,"10' 11""",139 lbs,295,293,OH,26
+427,Yagmur Mislina Kilic,03/30/1996,"12' 2""",146 lbs,283,280,OH,26
+428,Cemre Janset Erkul,01/12/1997,"12' 0""",143 lbs,298,295,MB,26
+429,Arelya Karasoy,12/14/1996,"10' 11""",161 lbs,287,280,setter,26
+430,Arelya Karasoy,12/14/1996,"10' 11""",161 lbs,287,280,setter,26
+431,Su Zent,03/25/1996,"12' 0""",154 lbs,305,303,MB,26
+ma Cese Montalvo,10/29/2000,"6.0' 0.03999999999999737""",58,322,308,2,31
+367,Liset Herrera Blanco,12/06/1998,"6.0' 1.4999999999999973""",70,311,300,3,31
+368,Anaila Martinez Chaviano,03/20/1999,"6.0' 1.1199999999999974""",70,320,310,1,31
+369,Carmela Massip Mursuli,01/17/1998,"5.0' 0.6599999999999975""",65,304,295,2,31
+370,Sonia Beatriz Romero Espinosa,08/02/1997,"6.0' 0.11999999999999744""",70,301,288,1,31
+371,Anet Alfonso Benitez,06/26/1996,"5.0' 1.8199999999999976""",54,225,222,4,31
+372,Haiping Sun,05/23/1996,"5.0' 2.1999999999999975""",65,300,292,1,5
+373,Mingyuan Hu,05/17/1996,"6.0' 1.5799999999999974""",69,305,297,3,5
+374,Zixuan Meng,11/18/1996,"5.0' 2.1999999999999975""",62,298,290,6,5
+375,Ye Jin,03/01/1996,"6.0' 1.5799999999999974""",77,310,302,2,5
+376,Qingqing Du,12/18/1996,"6.0' 1.0399999999999974""",72,312,300,2,5
+377,Qian Zhang,02/20/1997,"6.0' 2.4999999999999973""",70,313,302,3,5
+378,Jiayi Huang,08/16/1996,"5.0' 0.2799999999999976""",60,285,275,6,5
+379,Wanqianbai Rong,01/01/1997,"6.0' 1.1199999999999974""",75,304,297,1,5
+380,Yuanyuan Wang,07/14/1997,"6.0' 1.9599999999999973""",75,312,300,3,5
+381,Xiangyu Gong,04/21/1997,"6.0' 0.5799999999999974""",72,313,302,4,5
+382,Xinyi Zhou,03/17/1997,"6.0' 1.5799999999999974""",69,307,300,2,5
+383,Yi Yang,03/19/1997,"6.0' 1.1199999999999974""",70,308,300,4,5
+384,Mayar Mohamed,02/05/2000,"6.0' 0.5799999999999974""",78,288,279,3,29
+385,Mai Moustafa,10/01/1996,"5.0' 2.2799999999999976""",63,280,269,2,29
+386,Salma Mahmoud,02/04/1999,"5.0' 2.2799999999999976""",56,278,266,2,29
+387,Nourallah Amin,11/25/2000,"6.0' 1.1199999999999974""",70,285,276,3,29
+388,Malak Badawy,06/17/1996,"5.0' 2.2799999999999976""",64,273,289,4,29
+389,Mariam Ebrahim,03/13/1997,"5.0' 1.8999999999999977""",63,273,261,1,29
+390,Rahma Almohandes,11/09/1996,"5.0' 2.2799999999999976""",63,277,265,2,29
+391,Yasmin Hussein,01/11/1997,"5.0' 2.2799999999999976""",74,188,178,2,29
+392,Hend Farag,09/29/1997,"6.0' 0.5799999999999974""",68,277,272,3,29
+393,Icel Nadim,02/19/1996,"5.0' 1.9799999999999978""",52,253,267,6,29
+394,Jailan Tawfik,06/12/1997,"5.0' 2.2799999999999976""",65,292,279,4,29
+395,Rania Ashmawy,02/20/1996,"5.0' 1.2799999999999976""",67,273,264,1,29
+396,Diana De La Peña,06/07/1999,"6.0' 1.5799999999999974""",60,294,295,3,30
+397,Nair Canessa,06/04/1997,"6.0' 2.1199999999999974""",70,295,298,3,30
+398,Nicole Abreu Erquinigo,03/27/1999,"5.0' 2.1999999999999975""",63,285,270,2,30
+399,Cristina Cuba,06/04/1996,"5.0' 0.7399999999999975""",65,280,275,1,30
+400,Shiamara Almeida,02/19/1996,"5.0' 1.8199999999999976""",62,286,275,1,30
+401,Maguilaura Frias,05/28/1997,"6.0' 0.5799999999999974""",71,291,280,4,30
+402,Katherine Regalado,03/11/1998,"6.0' 2.0399999999999974""",66,296,287,4,30
+403,Rosa Valiente,06/26/1996,"6.0' 0.11999999999999744""",60,290,295,3,30
+404,Angela Leyva,11/22/1996,"6.0' 1.1199999999999974""",70,312,291,2,30
+405,Yomira Villacorta,01/11/1996,"5.0' 1.4399999999999977""",61,265,250,6,30
+406,Dayana Rojas,10/09/1997,"5.0' 2.519999999999998""",55,178,180,2,30
+407,Coraima Gomez,08/09/1996,"5.0' 1.1999999999999975""",70,300,285,2,30
+408,Ilaria Bonvicini,02/28/1997,"5.0' 2.519999999999998""",52,261,243,2,15
+409,Carlotta Cambi,05/28/1996,"5.0' 1.7399999999999975""",66,302,292,1,15
+410,Sofia D'odorico,01/06/1997,"6.0' 1.5799999999999974""",78,312,302,2,15
+411,Alessia Orro,07/18/1998,"5.0' 2.1999999999999975""",74,308,231,1,15
+412,Sara Bonifacio,07/03/1996,"6.0' 0.03999999999999737""",76,320,300,3,15
+413,Anna Danesi,04/20/1996,"6.0' 1.9599999999999973""",75,312,246,3,15
+414,Anastasia Guerra,10/15/1996,"6.0' 1.5799999999999974""",80,314,239,2,15
+415,Chiara De Bortoli,07/28/1997,"5.0' 2.1999999999999975""",68,302,286,6,15
+416,Paola Ogechi Egonu,12/18/1998,"6.0' 2.0399999999999974""",70,336,256,4,15
+417,Beatrice Berti,01/12/1996,"6.0' 2.4999999999999973""",87,304,288,3,15
+418,Anna Nicoletti,01/03/1996,"6.0' 2.4999999999999973""",86,306,290,4,15
+419,Elisa Zanette,02/17/1996,"6.0' 2.4999999999999973""",86,304,288,4,15
+420,Melis Yilmaz,06/28/1997,"5.0' 2.4399999999999977""",52,260,259,6,26
+421,Cansu Ozbay,10/17/1996,"5.0' 1.6599999999999975""",75,285,284,1,26
+422,Ayca Aykac,02/27/1996,"5.0' 0.7399999999999975""",54,280,279,6,26
+423,Rida Erlalelitepe,07/22/1996,"6.0' 0.11999999999999744""",70,293,290,2,26
+424,Ada Germen,06/24/1997,"5.0' 1.6599999999999975""",62,285,283,2,26
+425,Zehra Gunes,07/07/1999,"6.0' 0.9599999999999973""",82,309,255,3,26
+426,Humay Topaloglu,08/03/1996,"5.0' 2.1999999999999975""",63,295,293,2,26
+427,Yagmur Mislina Kilic,03/30/1996,"6.0' 1.0399999999999974""",66,283,280,2,26
+428,Cemre Janset Erkul,01/12/1997,"6.0' 1.1199999999999974""",65,298,295,3,26
+429,Arelya Karasoy,12/14/1996,"5.0' 0.6599999999999975""",73,287,280,1,26
+430,Arelya Karasoy,12/14/1996,"5.0' 0.6599999999999975""",73,287,280,1,26
+431,Su Zent,03/25/1996,"6.0' 1.1199999999999974""",70,305,303,3,26
